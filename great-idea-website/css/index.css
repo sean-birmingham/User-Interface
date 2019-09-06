@@ -64,3 +64,30 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+.navigation {
+	/* border: 2px solid black; */
+	margin: 20px;
+	width: 90%;
+	display: inline-block;
+}
+
+.navigation a {
+	/* border: 2px solid green; */
+	margin: 27px;
+	display: inline-block;
+	text-decoration: none;
+	color: lightgray;
+}
+
+.logo {
+	/* border: 2px solid purple; */
+	margin-left: 70px;
+	vertical-align: middle;
+	display: inline-block;
+}
