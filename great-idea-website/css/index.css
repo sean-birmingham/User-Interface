@@ -64,3 +64,94 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+
+.navigation {
+	/* border: 2px solid black; */
+	margin: 20px;
+	width: 90%;
+	display: inline-block;
+}
+
+.navigation a {
+	/* border: 2px solid green; */
+	margin: 27px;
+	display: inline-block;
+	text-decoration: none;
+	color: lightgray;
+}
+
+.logo {
+	/* border: 2px solid purple; */
+	margin-left: 70px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+header {
+	/* border: 2px solid black; */
+	margin: 20px;
+	width: 90%;
+	display: inline-block;
+}
+
+h1 {
+	/* border: 2px solid blue; */
+	margin: 20px;
+	width: 40%;
+	text-align: center;
+	font-size: 80px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+button {
+	border: 1px solid black;
+	background: white;
+	margin-bottom: 50px;
+	padding: 5px 32px;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+header img {
+	/* border: 2px solid purple; */
+	display: inline-block;
+	margin-left: 90px;
+}
+
+.top-content {
+	/* border: 2px solid black; */
+	min-height: 70px;
+	width: 45%;
+	margin: 20px;
+	display: inline-block;
+}
+
+
+.middle-img {
+	/* border: 2px solid purple; */
+	margin: 20px;
+}
+
+.bottom-content {
+	/* border: 2px solid black; */
+	min-height: 70px;
+	width: 27%;
+	margin: 20px;
+	display: inline-block;
+}
+
+.contact {
+	margin: 20px;
+}
+
+footer {
+	/* border: 2px solid black; */
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+}
